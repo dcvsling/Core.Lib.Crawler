@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27205.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Lib.Crawler", "Core.Lib.Crawler\Core.Lib.Crawler.csproj", "{F4E707EE-DD63-4092-BC3B-522D68FDF646}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Lib.Crawler.Tests", "Core.Lib.Crawler.Tests\Core.Lib.Crawler.Tests.csproj", "{CE0EBB83-5AC1-4AF5-92C6-0AE9F8599DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E707EE-DD63-4092-BC3B-522D68FDF646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E707EE-DD63-4092-BC3B-522D68FDF646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E707EE-DD63-4092-BC3B-522D68FDF646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E707EE-DD63-4092-BC3B-522D68FDF646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0EBB83-5AC1-4AF5-92C6-0AE9F8599DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0EBB83-5AC1-4AF5-92C6-0AE9F8599DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0EBB83-5AC1-4AF5-92C6-0AE9F8599DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0EBB83-5AC1-4AF5-92C6-0AE9F8599DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8EFC8E9-F6EB-4B8F-80C2-84664E69B603}
+	EndGlobalSection
+EndGlobal
